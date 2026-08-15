@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/<cpanel-user>/public_html/
+    - /bin/rsync -av --delete --exclude '.git' ./ "$DEPLOYPATH"
