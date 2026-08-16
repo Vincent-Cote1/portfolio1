@@ -1,0 +1,19 @@
+name: Deploy to cPanel
+on:
+  push:
+    branches:
+      - main
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to cPanel
+        id: deploy
+        uses: pinkasey/cpanel-deploy-action@v1.2.5
+        with:
+          hostname: '2378268.tim-cstj.ca'
+          cPanelApiPort: '2083'
+          cpanel_username: 'e2378268'
+          cpanel_token: '${{ secrets.CPANEL_TOKEN }}'
+          repository_root: '/home/e2378268/repositories/portfolio1'
+          branch: main
