@@ -38,7 +38,7 @@ li {
 	margin-bottom: 0.75rem;
 }
 
-a {
+nav a {
 	display: block;
 	text-decoration: none;
 	color: #0b4f6c;
@@ -49,9 +49,28 @@ a {
 	transition: background-color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
 }
 
-a:hover,
-a:focus-visible {
+nav a:hover,
+nav a:focus-visible {
 	background-color: #e6f1f7;
 	border-color: #7fb3c9;
 	transform: translateY(-1px);
+}
+
+main a {
+	display: inline-block;
+	padding: 0.4rem 0.65rem;
+	color: #7a1f1f;
+	background: #fff4f4;
+	border: 1px dashed #c65b5b;
+	border-radius: 6px;
+	text-decoration: underline;
+	text-underline-offset: 3px;
+	transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+}
+
+main a:hover,
+main a:focus-visible {
+	color: #4a1212;
+	background: #ffe8e8;
+	border-color: #9f3a3a;
 }
