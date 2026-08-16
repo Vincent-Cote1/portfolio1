@@ -13,16 +13,16 @@
     <h2>Projets</h2>
     <ul>
         <li>
-            <a href="#">Section Jeux Vidéo</a>
+            <a href="jeu.php">Jeux Vidéo</a>
         </li>
         <li>
-            <a href="#">Section Web</a>
+            <a href="web.php">Web</a>
         </li>
         <li>
-            <a href="#">Section Design</a>
+            <a href="design.php">Design</a>
         </li>
         <li>
-            <a href="#">Section Vidéo</a>
+            <a href="video.php">Vidéo</a>
         </li>
     </ul>
 </body>
