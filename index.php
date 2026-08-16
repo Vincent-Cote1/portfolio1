@@ -8,9 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Portfolio</h1>
-        <p>Vincent Côté, étudiant en technique d'intégration multimédia au cégep de Saint-Jérôme</p>
-        <?php include 'menu-nav.php'; ?>
+        <?php include 'menu-nav-head.php'; ?>
     </header>
     <main>
     </main>
