@@ -12,7 +12,7 @@
             <h2>ROOMS</h2>
             <ul>
                 <li><a href="#" aria-current="true"># general</a></li>
-                <li><a href="#"># projets</a></li>
+                <li><a href="#"># cs2</a></li>
                 <li><a href="#"># gaming</a></li>
             </ul>
         </aside>
@@ -22,13 +22,11 @@
 
             <section class="messages" aria-label="Messages">
                 <article class="message">
-                    <p class="author">Alice</p>
-                    <p class="content">hey!</p>
+                    
                 </article>
 
                 <article class="message">
-                    <p class="author">Vincent</p>
-                    <p class="content">check this out</p>
+                    
                 </article>
             </section>
 
