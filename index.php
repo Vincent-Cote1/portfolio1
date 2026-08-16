@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <h1>Portfolio</h1>
@@ -12,16 +13,16 @@
     <h2>Projets</h2>
     <ul>
         <li>
-            <p>Section Jeux Vidéo</p>
+            <a href="#">Section Jeux Vidéo</a>
         </li>
         <li>
-            <p>Section Web</p>
+            <a href="#">Section Web</a>
         </li>
         <li>
-            <p>Section Design</p>
+            <a href="#">Section Design</a>
         </li>
         <li>
-            <p>Section Vidéo</p>
+            <a href="#">Section Vidéo</a>
         </li>
     </ul>
 </body>
