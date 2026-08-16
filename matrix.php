@@ -40,9 +40,7 @@
         <aside class="panel panel-members" aria-label="Members">
             <h2>MEMBERS</h2>
             <ul>
-                <li>Vincent</li>
-                <li>Alice</li>
-                <li>Bob</li>
+               
             </ul>
         </aside>
     </div>
