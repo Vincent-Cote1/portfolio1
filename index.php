@@ -7,6 +7,12 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <?php include 'menu-nav.php'; ?>
+    <header>
+        <h1>Portfolio</h1>
+        <p>Vincent Côté, étudiant en technique d'intégration multimédia au cégep de Saint-Jérôme</p>
+        <?php include 'menu-nav.php'; ?>
+    </header>
+    <main>
+    </main>
 </body>
 </html>
