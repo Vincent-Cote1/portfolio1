@@ -7,8 +7,6 @@
 </head>
 <body>
     <p>Hello, World!</p>
-    <p>salut phill, jpeux update le site en quasi live</p>
-    <img src="assets/images/tree.gif" alt="Profile Picture">
-    <p>ah ouais!!</p>
+    
 </body>
 </html>
