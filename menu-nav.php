@@ -1,3 +1,4 @@
+<nav>
 <h1>Portfolio</h1>
     <p>Vincent Côté, étudiant en technique d'intégration multimédia au cégep de Saint-Jérôme</p>
     
@@ -16,3 +17,4 @@
             <a href="video.php">Vidéo</a>
         </li>
     </ul>
+</nav>
