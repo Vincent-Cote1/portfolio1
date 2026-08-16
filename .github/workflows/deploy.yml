@@ -11,7 +11,7 @@ jobs:
         id: deploy
         uses: pinkasey/cpanel-deploy-action@v1.2.5
         with:
-          hostname: '2378268.tim-cstj.ca'
+          hostname: 'https://2378268.tim-cstj.ca'
           cPanelApiPort: '2083'
           cpanel_username: 'e2378268'
           cpanel_token: '${{ secrets.CPANEL_TOKEN }}'
